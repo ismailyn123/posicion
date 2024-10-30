@@ -1,0 +1,64 @@
+.cristal1 {
+    height: 300px;
+    position: absolute;
+    top: 1340px;
+    left: 0;
+    right: 0;
+    background-color: red;
+}
+
+.cristal {
+    height: 300px;
+    position: absolute;
+    top: 1010px;
+    left: 0;
+    right: 0;
+    background-color: blue;
+}
+
+.isma {
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+}
+
+.ismaleft {
+    width: 410px;
+    height: 800px;
+    position: absolute;
+    top: 150px;
+    left: 0;
+    background-color: gray;
+}
+
+.ismaright {
+    width: 910px;
+    height: 800px;
+    position: absolute;
+    top: 150px;
+    right: 0;
+    background-color: green;
+}
+
+.isma1 {
+    width: 880px;
+    height: 330px;
+    position: absolute;
+    top: 25px;
+    left: 15px;
+    background-color: greenyellow;
+}
+
+.ismailyn1 {
+    width: 880px;
+    height: 330px;
+    position: absolute;
+    top: 410px;
+    left: 15px;
+    background-color: greenyellow;
+}
